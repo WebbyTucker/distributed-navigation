@@ -9,7 +9,7 @@ html {
 body {
   font-family: sans-serif;
   font-size: 1.125rem;
-  line-height: : 1.5;
+  line-height: : 1.5rem;
   background-color: #fff;
 
 }
@@ -29,7 +29,7 @@ img {
 }
 
 h1 {
-  width: 30%
+  width: 30%;
 }
 
 p {
@@ -37,7 +37,7 @@ p {
 }
 
 nav {
-  width: 30%
+  width: 30%;
 }
 
 ul {
@@ -50,4 +50,8 @@ ul {
 a:link {
 text-decoration: none;
 text-decoration-color: #0074d9;
+}
+
+a:hover {
+  text-decoration: #fff;
 }
