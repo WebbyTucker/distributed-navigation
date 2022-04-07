@@ -11,7 +11,6 @@ html {
 body {
   font-size: 1.125rem;
   margin: 0;
-  background-color: #fff;
 }
 
 header {
@@ -19,8 +18,7 @@ header {
   align-items: center;
   justify-content: space-between;
   background-color: #e2e2e2;
-  padding: .75em 1em .6em;
-  margin: 0.5rem;
+  margin: .5rem;
 }
 
 header img {
@@ -34,6 +32,7 @@ header h1 {
 
 header p {
   width: 30%;
+  padding: 1rem;
 }
 
 nav {
@@ -42,10 +41,10 @@ nav {
 
 nav ul {
   list-style-type: none;
-  padding: 1rem;
   display: flex;
   width: auto;
   justify-content: space-between;
+  padding: .75em 1em .6em;
 }
 
 nav a {
