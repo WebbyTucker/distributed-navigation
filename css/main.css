@@ -10,7 +10,7 @@ html {
 
 body {
   font-size: 1.125rem;
-  margin: .5rem;
+  margin: 0;
   background-color: #fff;
 }
 
@@ -20,6 +20,7 @@ header {
   justify-content: space-between;
   background-color: #e2e2e2;
   padding: .75em 1em .6em;
+  margin: 0.5rem;
 }
 
 header img {
@@ -47,7 +48,7 @@ nav ul {
   justify-content: space-between;
 }
 
-nav a:link {
+nav a {
   text-decoration: none;
   text-decoration-color: #0074d9;
 }
